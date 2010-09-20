@@ -1,6 +1,6 @@
 visibility: INTERNAL
 # TODO: multiple designers?
-# designer: SIL
+designer: SIL International
 url: http://scripts.sil.org/andika
 license: OFL
 

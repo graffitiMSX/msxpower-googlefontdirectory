@@ -1,12 +1,14 @@
-visibility: INTERNAL 
-# TODO: multiple designers?
-# designer: SIL International
+visibility: INTERNAL
+designer: Peter Martin
+# We can only accommodate a single designer in our current scheme. The named
+# designers in the fontlog are Peter Martin, Joan Wardell, Christopher Samuel,
+# John Hudson, and Ralph Hancock, with SIL International as maintainer.
 url: http://scripts.sil.org/EzraSIL_Home
 license: OFL
 
 approved: false
 category: serif
-subsets: latin, hewbrew
+subsets: latin, hebrew
 
 description: <p>Ezra SIL is the same typeface as SIL Ezra and is \
   fashioned after the square letter forms of the typography of the Biblia \

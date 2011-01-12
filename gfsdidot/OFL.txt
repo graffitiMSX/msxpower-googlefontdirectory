@@ -1,5 +1,5 @@
-Copyright (c) 2010, Sebastian Kosch (sebastian@aldusleaf.org),
-with Reserved Font Name "Crimson" and "Crimson Text". 
+Copyright (c) <17/12/07>, <GREEK FONT SOCIETY> (<http://www.greekfontsociety.org|gfs@greekfontsociety.org>),
+with Reserved Font Name <GFS Didot>.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

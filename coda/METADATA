@@ -1,0 +1,20 @@
+license: OFL
+url: http://www.newtypography.co.uk
+category: sans-serif
+subsets: menu,latin
+
+family: Coda
+
+designer: Vernon Adams
+
+profiledescriptionlicense: Creative Commons Attribution-ShareAlike 3.0
+profiledescriptionlicenseurl: http://creativecommons.org/licenses/by-sa/3.0/
+approved: true
+description: <p>Eye-catching, no-messing, \
+  bandwidth-saving, Coda is designed to be \
+  an unassuming, practical, impact heavy \
+  display font for the world wide web. \
+  Designed to be used in large sizes to \
+  bring bold information to web pages.</p>
+
+font.Coda-Heavy.ttf.weight: 800

@@ -1,0 +1,48 @@
+license: OFL
+payment: DESIGNER
+url: http://www.newtypography.co.uk
+category: display
+subsets: menu,latin
+
+family: Coda
+group: Coda
+
+designer: Vernon Adams
+
+profiledescriptionlicense: Creative Commons Attribution-ShareAlike 3.0
+profiledescriptionlicenseurl: http://creativecommons.org/licenses/by-sa/3.0/
+approved: true
+description: <p>Eye-catching, no-messing, \
+  bandwidth-saving, Coda is designed to be \
+  an unassuming, practical, impact heavy \
+  display font for the world wide web. \
+  Designed to be used in large sizes to \
+  bring bold information to web pages.</p>
+
+font.Coda-Heavy.ttf.weight: 800
+font.Coda-Heavy.ttf.style: normal
+
+font.Coda-Caption-Heavy.ttf.subfamily: Caption
+font.Coda-Caption-Heavy.ttf.weight: 800
+font.Coda-Heavy.ttf.style: normal
+
+
+
+
+# cd ~/src/font-optimizer; \
+# ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+#    --exclude="c2sc,smcp,ordn,sups,sinf,subs,dlig,frac" \
+#    --chars="Coda" \
+#   ~/googlefontdirectory/coda/Coda-Heavy.{ttf,menu}; \
+# cd ~/googlefontdirectory/coda/; \
+# ~/googlefontdirectory/tools/chars/showchars.py \
+#  Coda-Heavy.menu; \
+
+# cd ~/src/font-optimizer; \
+# ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+#    --exclude="c2sc,smcp,ordn,sups,sinf,subs,dlig,frac" \
+#    --chars="Coda Caption" \
+#   ~/googlefontdirectory/coda/Coda-Caption-Heavy.{ttf,menu}; \
+# cd ~/googlefontdirectory/coda/; \
+# ~/googlefontdirectory/tools/chars/showchars.py \
+#  Coda-Caption-Heavy.menu; \
